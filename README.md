@@ -45,3 +45,5 @@ i.e. specify
 recombination = hyrec
 ```
 in the CLASS parameter file.
+
+All modifications to the main branch CLASS code are marked with "LFT".
